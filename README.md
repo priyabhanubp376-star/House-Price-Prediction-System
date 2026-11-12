@@ -9,6 +9,12 @@ The House Price Prediction System uses Machine Learning algorithms to estimate m
 
 The goal is to build a complete, practical ML application with an easy-to-use interface.
 
+## 🚀 Live Demo
+
+Try the deployed House Price Prediction application:
+
+[Open Live App](https://house-price-prediction-system-nggzph7rjxebs9sykma3cz.streamlit.app/)
+
 ## 🎯 Project Objectives
 
 - Analyze housing data using Exploratory Data Analysis (EDA).
