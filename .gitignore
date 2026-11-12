@@ -16,3 +16,7 @@ venv/
 # System files
 .DS_Store
 Thumbs.db
+
+# Large intermediate ML models
+models/best_house_price_model.pkl
+models/tuned_house_price_model.pkl
